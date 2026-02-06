@@ -1,16 +1,17 @@
 {
   "items": [
     {
-      "label": "Google",
+      "label": "Account",
       "url": "https://www.google.com"
     },
     {
-      "label": "YouTube",
+      "label": "PaperCheck",
       "url": "https://www.youtube.com"
     },
     {
-      "label": "GitHub",
+      "label": "Payment",
       "url": "https://github.com"
     }
   ]
 }
+
